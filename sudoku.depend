@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649271866 source:c:\users\alexi\desktop\sudoku\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1650408392 source:c:\users\alexi\desktop\new folder\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
